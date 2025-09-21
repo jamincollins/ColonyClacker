@@ -18,3 +18,4 @@ like so:
 | --- | --- | --- |
 |CabbageCorp| [**Mini Monolith Colony Clacker**](https://github.com/PrintersForAnts/ColonyClacker/tree/main/Usermods/CabbageCorp/Mini%20Monolith%20ColonyClacker)| Mini Monolith compatible Colony Clacker hinge & latch |
 |GearNut|[**BTT HDMI5 Display Mount**](https://github.com/PrintersForAnts/ColonyClacker/tree/main/Usermods/Gear_Nut/BTTHMDI5)| Display mount & Bezel for BTT HDMI5 display
+|JaminCollins| [**4x10 Magents**](https://github.com/PrintersForAnts/ColonyClacker/tree/main/Usermods/JaminCollins/4x10_Magnets) | Using 4x10 magnets for latch and handle |

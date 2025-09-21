@@ -1,0 +1,1 @@
+I wanted a _bit_ more grip/pull on the door latch and decided to try 4x10 magnets in place of the normal 3x6.  The result is (in short) _amazing_!
