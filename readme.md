@@ -147,13 +147,15 @@ Completely remodeled from scratch (not just scaled), it boasts enhanced stealthy
 
 ### 🔧 Latch & Bottom Hinge Variants
 
-Available in multiple offsets to suit different panel/foam thicknesses. The required frame‑to‑door distance is embossed on the back of each STL (e.g., **6** = **6 mm**).
+Available in multiple sizes to suit different panel/foam thicknesses. The required frame‑to‑door distance is embossed on the back of each STL (e.g., **6** = **6 mm**).
+
+If using a 3mm panel, and 3mm foam for example, you would likely use the 5.8mm variants to allow for a little squish on your panel foam. 
 
 Thicknesses range from **2.8 mm** to **6.0 mm** in **0.2 mm** increments.
 
 ![](./Images/latch_variants.png)
 
-*Bottom hinge variants with varying pin offsets for different panel/foam thicknesses.*
+*Bottom hinge variants for different panel/foam thicknesses.*
 
 ![](./Images/Bottom_Hinges.png)
 
